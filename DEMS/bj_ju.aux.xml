@@ -1,0 +1,21 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>bj_ju</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>1668</HistMin>
+        <HistMax>1831</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|0|0|4|0|9|7|0|6|4|0|4|0|3|9|0|4|9|0|6|8|0|8|0|8|14|0|16|11|0|16|17|0|10|20|0|16|0|18|13|0|18|19|0|17|19|0|22|0|20|20|0|24|23|0|19|27|0|15|0|31|15|0|30|21|0|18|20|0|29|25|0|24|0|23|19|0|29|26|0|23|16|0|35|0|24|24|0|30|29|0|23|26|0|27|32|0|18|0|20|35|0|23|17|0|23|14|0|23|0|21|23|0|16|21|0|20|17|0|21|0|12|23|0|23|15|0|22|15|0|22|20|0|16|0|17|19|0|17|29|0|16|14|0|23|0|24|22|0|20|15|0|24|25|0|21|0|27|14|0|20|22|0|24|25|0|20|21|0|21|0|26|21|0|26|24|0|22|22|0|25|0|15|32|0|24|26|0|25|19|0|23|24|0|20|0|22|24|0|23|28|0|19|20|0|25|0|26|36|0|38|25|0|38|31|0|25|0|22|29|0|24|20|0|25|28|0|24|25|0|20|0|21|20|0|15|16|0|20|21|0|16|0|12|23|0|11|17|0|14|8|0|12|0|8</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_COUNT">3249.000000</MDI>
+      <MDI key="STATISTICS_MEDIAN">nan</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
